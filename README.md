@@ -7,3 +7,5 @@
   3. Creating .db
   4. Define and open string connection
   5. Good pratices on Python, Git and GitHub
+  6. Pipreqs
+  7. How make queries
